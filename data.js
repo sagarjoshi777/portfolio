@@ -15,7 +15,7 @@ const PORTFOLIO = {
   hello: "Hi there, I'm",                       // small greeting above your name
   role: "Computer Engineer · Developer",         // line under your name
   tagline: "I love building things that work, understanding how they work, and learning something new every single day.",
-  email: "its.sagarjoshi.com",              // EDIT: your real email
+  email: "mailto:its.sagarjoshi@gmail.com",              // EDIT: your real email
   initials: "SJ",                                // shown if the photo file is missing
 
   /* ---------- PHOTO & CV ---------- */
@@ -27,7 +27,7 @@ const PORTFOLIO = {
   socials: [
     { label: "GitHub",   url: "https://github.com/its-sagarjoshi" },          // EDIT
     { label: "LinkedIn", url: "https://www.linkedin.com/in/your-username" }, // EDIT
-    { label: "Email",    url: "mailto:sagarofficial6767@gmail.com" }              // EDIT
+    { label: "Email",    url: "mailto:its.sagarjoshi@gmail.com" }              // EDIT
   ],
 
   /* ---------- TERMINAL ANIMATION ----------
