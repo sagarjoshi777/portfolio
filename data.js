@@ -15,7 +15,7 @@ const PORTFOLIO = {
   hello: "Hi there, I'm",                       // small greeting above your name
   role: "Computer Engineer · Developer",         // line under your name
   tagline: "I love building things that work, understanding how they work, and learning something new every single day.",
-  email: "sagarofficial6767@gmail.com",              // EDIT: your real email
+  email: "its.sagarjoshi.com",              // EDIT: your real email
   initials: "SJ",                                // shown if the photo file is missing
 
   /* ---------- PHOTO & CV ---------- */
