@@ -25,7 +25,7 @@ const PORTFOLIO = {
 
   /* ---------- SOCIAL LINKS (shown under the buttons) ---------- */
   socials: [
-    { label: "GitHub",   url: "https://github.com/sagarjoshi777" },          // EDIT
+    { label: "GitHub",   url: "https://github.com/its-sagarjoshi" },          // EDIT
     { label: "LinkedIn", url: "https://www.linkedin.com/in/your-username" }, // EDIT
     { label: "Email",    url: "mailto:sagarofficial6767@gmail.com" }              // EDIT
   ],
@@ -90,8 +90,8 @@ const PORTFOLIO = {
   /* ---------- JOURNEY / TIMELINE (newest first) ----------
      Use it for education, internships, courses, achievements.  */
   timeline: [
-    { when: "Now",  title: "Learning DevOps & data science", place: "Self-study and projects", text: "Building projects on GitHub and growing my skills every day." },
-    { when: "2024", title: "B.E. Computer Engineering",     place: "Your College Name",       text: "Studying core computer engineering: algorithms, operating systems, networks." },  // EDIT year/college
-    { when: "2022", title: "Wrote my first program",         place: "Where it all started",    text: "Fell in love with C and the Linux command line." }
+    { when: "2026",  title: "Learning DevOps & data science", place: "Self-study and projects", text: "Building projects on GitHub and growing my skills every day." },
+    { when: "2023", title: "B.E. Computer Engineering",     place: "kantipur engineering college,ioe",       text: "Studying core computer engineering: algorithms, operating systems, networks." },  // EDIT year/college
+    { when: "2023", title: "Wrote my first program",         place: "kantipur engineering college",    text: "Fell in love with C and the Linux command line." }
   ]
 };
